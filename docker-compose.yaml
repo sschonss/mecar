@@ -1,7 +1,5 @@
 services:
-
-  app:
-    image: sschonss/mecar-transportes:1.0.4
+    image: sschonss/mecar-transportes:22.07.12.05
     restart: always
     ports:
       - 80:80
